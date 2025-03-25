@@ -1,0 +1,26 @@
+
+                .o_company_1_layout {
+                font-family: Lato;
+                &.o_report_layout_striped {
+                   strong {
+                        color: #5c1649;
+                    }
+                    h2 {
+                        color: #861a7e;
+                    }
+                    thead tr th {
+                        color: #5c1649;
+                    }
+                }
+                .row > div > table,
+                div#total table, .totals_taxes_company_currency table {
+                    &:first-child,
+                    &:last-child,
+                    &.o_subtotal,
+                    &.o_total {
+                        strong {
+                            color: #861a7e;
+                        }
+                    }
+                }
+            }
