@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//PYVOBJECT//NONSGML Version 1//EN
+BEGIN:VEVENT
+UID:20241225T114544Z - 48794@derwaza-odoo-app1
+DTSTART:20241229T073000Z
+DTEND:20241229T093000Z
+ATTENDEE:MAILTO:mohammed@proptech.sa
+ATTENDEE:MAILTO:taiebkristou@masa.sa
+ATTENDEE:MAILTO:ahmed@proptech.sa
+CREATED:20241225T114544Z
+DESCRIPTION:​ [1] شرح نظام بروبتك لشركة التحالف 
+ العقاري\nوشرح نظام البيع على الخارطة\n\n\n\n
+ [1] https://teams.microsoft.com/dl/launcher/launcher.html?url=%2F_%23%2Fl%
+ 2Fmeetup-join%2F19%3Ameeting_MjUzOTFhZTUtZjM4Ny00NTBmLWIzNzUtMmViMmVlMzcwO
+ DIy%40thread.v2%2F0%3Fcontext%3D%257b%2522Tid%2522%253a%252267a8080a-e8d7-
+ 46b8-9995-a4d3bf90a03f%2522%252c%2522Oid%2522%253a%2522e8f00236-750e-41de-
+ 89b9-2bcb15a31995%2522%257d%26anon%3Dtrue&type=meetup-join&deeplinkId=bb3e
+ a087-017e-47f1-93a5-cde0f9297309&directDl=true&msLaunch=true&enableMobileP
+ age=true&suppressPrompt=true
+DTSTAMP:20241225T114544Z
+ORGANIZER:MAILTO:mohammed@proptech.sa
+SUMMARY:شرح نظام بروبتك لشركة التحالف العقاري
+BEGIN:VALARM
+ACTION:AUDIO
+DESCRIPTION:إشعار - 2 ساعتان 
+TRIGGER;related=START:PT2H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

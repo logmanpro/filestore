@@ -1,0 +1,13 @@
+
+$o-user-gray-color-palette: map-merge($o-user-gray-color-palette, o-map-omit((
+    '100': #F8FAFA,
+    '200': #E9EEEF,
+    '300': #DEE5E6,
+    '400': #CED9DA,
+    '500': #ADBBBD,
+    '600': #6C7B7D,
+    '700': #495557,
+    '800': #343F40,
+    '900': #212829,
+    // -- hook --
+)));
